@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @oriol-larrazabal
+- 👋 Hola, soy @oriol-larrazabal
 - 👀 Estoy interesado en la tecnologia y los deportes.
 - 🌱 Actualmente, estoy estudiando ASIX en Joan 23
 - 📫 Podéis contactarme vía email: olarrazabal2001@gmail.com
